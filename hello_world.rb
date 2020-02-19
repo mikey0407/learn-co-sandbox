@@ -1,2 +1,5 @@
-answer = "flamboyance"
-puts "A group of flamingos is called a #{answer}."
+counter = 0
+while counter < 20
+  puts "The current number is less than 20."
+  counter += 1
+end
